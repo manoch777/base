@@ -1,8 +1,7 @@
 ![Base](docs/assets/logo.png)
 
 # Base
-klklklklklklklklklklklklklklklklklklklklklklklklklain/node-operators/run-a-base-node)
-    - [Deploy an app](https://docs.base.org/base-chain/quickstart/deploy-on-base)
+klklklklklklklklklklklklklklk   - [Deploy an app](https://docs.base.org/base-chain/quickstart/deploy-on-base)
 - The [specs](https://specs.base.org) site has an overview of the protocol, including past and upcoming upgrades.
 
 ## Install Binaries
