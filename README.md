@@ -1,7 +1,4 @@
-![Base](docs/assets/logo.png)
-
-# Base
-klklklklklklklkcs.base.org) site has an overview of the protocol, including past and upcoming upgrades.
+vbse.org) site has an overview of the protocol, including past and upcoming upgrades.
 
 ## Install Binaries
 
