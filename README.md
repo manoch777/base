@@ -12,8 +12,5 @@ curl -fsSL https://raw.githubusercontent.com/base/base/main/baseup/install | bas
 
 Evgh
 AS DF ASD 
- SDAF
- D F 
- dfgg 
-  df 
+
   
