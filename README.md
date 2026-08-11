@@ -10,7 +10,3 @@ curl -fsSL https://raw.githubusercontent.com/base/base/main/baseup/install | bas
 
 ## Base Anvil Package
 
-Evgh
-AS DF ASD 
-
-  
