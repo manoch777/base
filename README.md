@@ -7,3 +7,5 @@ Use [`baseup`](baseup/README.md) to install the GitHub release binaries for this
 ```bash
 curl -fsSL https://raw.githubusercontent.com/base/base/main/baseup/install | bash
 5456212
+5656
+5655
