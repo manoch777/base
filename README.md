@@ -4,8 +4,4 @@ vbse.org) site has an overview of the protocol, including past and upcoming upgr
 
 Use [`baseup`](baseup/README.md) to install the GitHub release binaries for this repository:
 
-```bash
-curl -fsSL https://raw.githubusercontent.com/base/base/main/baseup/install | bash
-5456212
-5656
-5655
+54
