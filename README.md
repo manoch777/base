@@ -1,5 +1,4 @@
-123
-6544ite has an overview of the protocol, including past and upcoming upgrades.
+s an overview of the protocol, including past and upcoming upgrades.
 
 ## Install Binaries
 
