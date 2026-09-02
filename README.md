@@ -1,4 +1,4 @@
-s an overview of the protocol, including past and upcoming upgrades.
+erview of the protocol, including past and upcoming upgrades.
 
 ## Install Binaries
 
